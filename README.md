@@ -9,6 +9,7 @@ Projenin temel amacı, görüntü işleme süreçlerinde manuel olarak girilen e
 # Kullanılan Kütüphaneler
 OpenCV
 NumPy
+OS
 
 Kütüphanelerin İndirilmesi
 
