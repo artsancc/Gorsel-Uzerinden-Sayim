@@ -37,7 +37,9 @@ Momentler ve Merkezleme: cv2.moments istatistiği ile her meyvenin kütle merkez
 # Sonuç
 
 Program başarıyla sonlandırıldığında:
+
 Görsel Çıktı: Yapılan tüm çizimlerin ve sayımların işlendiği final görüntüsü sayim_sonucu.jpg adıyla kaydedilir.
+
 Veri Raporu: Toplam nesne sayısı ve kullanılan hassas ayarlar (eşik değerleri) analiz_raporu.txt dosyasına teknik bir rapor olarak yazdırılır.
 
 Bu sayede sadece bir görüntü elde etmekle kalınmaz, aynı zamanda işlemin tekrarlanabilirliği için gerekli teknik veriler de arşivlenmiş olur.
