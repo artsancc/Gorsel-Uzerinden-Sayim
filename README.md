@@ -1,4 +1,4 @@
-[analiz_raporu.txt](https://github.com/user-attachments/files/25415491/analiz_raporu.txt)# Görsel Üzerinden Sayım
+# Görsel Üzerinden Sayım
 
 Bu proje, görüntü işleme tekniklerini kullanarak fotoğraf üzerindeki nesneleri (meyveleri) tespit edenve sayan Python tabanlı bir uygulamadır.
 Canny Kenar Algılama ve Alan Filtreleme gibi kritik parametreleri kullanıcı TrackBar üzerinden canlı olarak optimize edilebilir.
