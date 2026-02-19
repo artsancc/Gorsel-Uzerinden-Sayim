@@ -1,6 +1,6 @@
 # Görsel Üzerinden Sayım
 
-Bu proje, görüntü işleme tekniklerini kullanarak fotoğraf üzerindeki nesneleri (meyveleri) tespit edenve sayan Python tabanlı bir uygulamadır.
+Bu proje, görüntü işleme tekniklerini kullanarak fotoğraf üzerindeki nesneleri (meyveleri) tespit eden ve sayan Python tabanlı bir uygulamadır.
 Canny Kenar Algılama ve Alan Filtreleme gibi kritik parametreleri kullanıcı TrackBar üzerinden canlı olarak optimize edilebilir.
 
 # Projenin Amacı
