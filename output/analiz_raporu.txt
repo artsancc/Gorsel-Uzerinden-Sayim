@@ -1,6 +1,0 @@
---- MEYVE SAYIM RAPORU ---
-Toplam Nesne Sayısı: 12
-Kullanılan Alt Eşik: 100
-Kullanılan Üst Eşik: 200
-Kullanılan Min Alan Filtresi: 500
---------------------------

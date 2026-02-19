@@ -1,2 +1,0 @@
-# Gorsel Uzerinden Sayim
-
