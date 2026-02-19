@@ -33,7 +33,7 @@ Momentler ve Merkezleme: cv2.moments istatistiği ile her meyvenin kütle merkez
 
 #Output
 
-![sayim_sonucu](https://github.com/user-attachments/assets/c2a91d81-1d6b-4ea6-9e80-f6ec7910dc52)
+![sayim_sonucu](https://github.com/user-attachments/assets/7e63bbc1-e339-4c58-baed-ac8a5c976899)
 
 # Sonuç
 
