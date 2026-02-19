@@ -27,18 +27,12 @@ Kontur ve Alan Analizi: cv2.findContours ile tüm kapalı alanlar haritalanır. 
 Momentler ve Merkezleme: cv2.moments istatistiği ile her meyvenin kütle merkezi hesaplanır ve numara etiketi tam bu koordinata basılır.
 
 #Input
+
 ![meyveler](https://github.com/user-attachments/assets/38f2ae87-abbb-4d4b-9bf6-ff4c0dc73ace)
 
 #Output
-![sayim_sonucu](https://github.com/user-attachments/assets/c2a91d81-1d6b-4ea6-9e80-f6ec7910dc52)
-[Uploading--- MEYVE SAYIM RAPORU ---
-Toplam Nesne Sayısı: 12
-Kullanılan Alt Eşik: 100
-Kullanılan Üst Eşik: 200
-Kullanılan Min Alan Filtresi: 500
---------------------------
- analiz_raporu.txt…]()
 
+![sayim_sonucu](https://github.com/user-attachments/assets/c2a91d81-1d6b-4ea6-9e80-f6ec7910dc52)
 
 # Sonuç
 
