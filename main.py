@@ -25,7 +25,7 @@ def get_edges(img, low, high):
     dilated = cv2.dilate(edges, kernel, iterations=1)
     return edges, dilated
 
-# Konturları sadece soldan sağa (x koordinatına) göre sıralar.
+# Konturların numaralarını yerleştirir.
 def kontur_sirala(contours):
     if not contours:
         return []
