@@ -37,8 +37,6 @@ def kontur_sirala(contours):
             cX = int(M["m10"] / M["m00"])
             contour_list.append((cnt, cX))
 
-    # Sadece merkez x koordinatına göre sırala
-    contour_list.sort(key=lambda item: item[1])
     return [item[0] for item in contour_list]
 
 # Sonuç görselini ve raporu kaydeder.
